@@ -3,6 +3,12 @@ Hi! My name is Brandon, and I'm a second-year Computer Science student at the Un
 
 [My LinkedIn](www.linkedin.com/in/brandonnguyentx)
 
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/brandonnguyentx" title="LinkedIn Profile"><img width="22" src="linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://brandonnguyen11.github.io/myportfolio/" title="Personal Website"><!--<img width="22" src="images/website.jpeg"> Personal Website</a></code>-->
+  <code><a href="mailto:brandon.nguyen0311@gmail.com" title="Email"><img width="22" src="email.png"> Email Me</a></code>
+</h5>
+
 ## 🧠 Programming Languages & Frameworks
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -17,7 +23,6 @@ Hi! My name is Brandon, and I'm a second-year Computer Science student at the Un
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
----
 
 ## 🎨 Design & Collaboration
 
@@ -28,11 +33,10 @@ Hi! My name is Brandon, and I'm a second-year Computer Science student at the Un
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
 
 ## ☁️ Deployment & Tools
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<!--![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
