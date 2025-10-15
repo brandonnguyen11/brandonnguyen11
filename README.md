@@ -7,7 +7,7 @@ Hi! My name is Brandon, and I'm a second-year Computer Science student at the Un
   </a>
   &nbsp;&nbsp;
   <a href="https://brandonnguyen11.github.io/myportfolio/" title="Personal Website">
-    <img width="22" src="images/website.jpeg" alt="Website"> Personal Website
+    <img width="22" src="iconwebsite.jpg" alt="Website"> Personal Website
   </a>
   &nbsp;&nbsp;
   <a href="mailto:brandon.nguyen0311@gmail.com" title="Email">
