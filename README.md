@@ -1,5 +1,5 @@
 # About Me!
-Hi! My name is Brandon, and I'm a second-year Computer Science student at the University of Texas - Dallas. I am interested in full-stack development, especially front-end and back-end architectures, real-time data pipelines, and AI-integrated applications. I’ve built healthcare and sports analytics platforms leveraging React, Spring Boot, and SQL. I’m currently leading a NASA-backed project designing a passive capture tool for microgravity environments and developing an optimized healthcare management web app.
+Hi! My name is Brandon, and I'm a second-year Computer Science student at the University of Texas at Dallas. I am interested in full-stack development, especially front-end and back-end architectures, real-time data pipelines, and AI-integrated applications. I’ve built healthcare and sports analytics platforms leveraging React, Spring Boot, and SQL. I previously led a NASA-backed project designing a passive capture tool for microgravity environments and developed an optimized healthcare management web app.
 
 <h5 align="center">
   <a href="https://www.linkedin.com/in/brandonnguyentx" title="LinkedIn Profile">
